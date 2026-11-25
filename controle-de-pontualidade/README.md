@@ -1,10 +1,6 @@
-
 # Controle de Pontualidade
 
-![Projeto Empresarial](https://img.shields.io/badge/Projeto-Empresarial-242424)
-![Status](https://img.shields.io/badge/Status-Concluído-228B22)
-![Excel](https://img.shields.io/badge/Excel-2019-217346)
-![Dashboard](https://img.shields.io/badge/Dashboard-Excel-555555)
+*Projeto empresarial · Concluído*
 
 Solução empresarial desenvolvida para acompanhamento de presença, pontualidade, atrasos e coberturas de escala.
 

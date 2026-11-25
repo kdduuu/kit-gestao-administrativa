@@ -1,10 +1,6 @@
-
 # Kit de Gestão Administrativa
 
-![Projeto Empresarial](https://img.shields.io/badge/Projeto-Empresarial-242424)
-![Status](https://img.shields.io/badge/Status-Concluído-228B22)
-![Excel](https://img.shields.io/badge/Excel-2019-217346)
-![Power Query](https://img.shields.io/badge/Power_Query-M-555555)
+*Projeto empresarial · Concluído*
 
 Coletânea de soluções empresariais desenvolvidas para organização, centralização e otimização de processos administrativos.
 

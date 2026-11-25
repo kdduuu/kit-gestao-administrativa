@@ -67,6 +67,14 @@ Exemplo considerando entrada às 09h00:
 
 ## Demonstração
 
+### Dashboard semanal
+
+![Dashboard semanal](assets/dashboard.png)
+
+### Registro diário
+
+![Registro diário](assets/registro-diario.png)
+
 A versão demonstrativa está disponível neste diretório:
 
 [Controle de Pontualidade — Excel](CONTROLE%20DE%20PONTUALIDADE%20-%20PORTFOLIO.xlsx)
